@@ -2,8 +2,8 @@ Just wanted a place I could put all the knowledge I've been gathering about Rola
 
 Here we go:
 # Table of Contents
-1. [Splitter cables](#Splitter cables)
-2. [Drum module update](#Drum module update)
+1. [Splitter cables](#splitter-cables)
+2. [Drum module update](#drum-module-update)
 3. [Third Example](#third-example)
 
 ## Splitter cables
